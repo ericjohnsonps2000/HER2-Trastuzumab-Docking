@@ -1,0 +1,13 @@
+
+RANK	DOCKING        CONFIDENCE  LIGAND    CLUSTERSIZE  ASSESSMENT
+        SCORE	                   RSMD       	
+1	-317.81 	0.9663	   133.68        Large 	  Excellent
+2	-309.11  	0.9602	   105.80        Large 	  Excellent
+3	-295.50     	0.9483	   94.46	 Large 	  Very Good
+4	-280.33     	0.9313	   73.94	Medium 	  Very Good
+5	-278.28     	0.9286	   69.58 	Medium 	  Very Good
+6	-277.93     	0.9281	   134.46	Medium 	  Very Good
+7	-277.45     	0.9275	   137.21	Medium 	  Very Good
+8	-276.03     	0.9256	   62.14 	Medium 	  Very Good
+9	-275.74     	0.9252	   80.89	Medium 	  Very Good
+10	-274.83     	0.9239	   134.07	Medium 	  Very Good
